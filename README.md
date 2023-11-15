@@ -1,15 +1,15 @@
 # Lending Club Case Study
 
-# Problem Statement
+# Problem Statement :
 
 The challenge is to employ Exploratory Data Analysis (EDA) to identify features indicative of 'risky' loan applicants, labeled as 'charged-off' or defaulters. By pinpointing these risk factors, the goal is to minimize credit loss, allowing lenders to make informed decisions and reduce financial liabilities.
 
-# How to run this notebook
+# Initial Steps :
 ```bash
-# pip install -r req.txt 
+pip install -r req.txt 
 ```
 
-# Table of Contents
+# Table of Contents :
 
 1. Importing Libraries
 2. Data Loading
