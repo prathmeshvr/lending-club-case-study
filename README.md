@@ -4,6 +4,10 @@
 
 The challenge is to employ Exploratory Data Analysis (EDA) to identify features indicative of 'risky' loan applicants, labeled as 'charged-off' or defaulters. By pinpointing these risk factors, the goal is to minimize credit loss, allowing lenders to make informed decisions and reduce financial liabilities.
 
+# How to run this notebook
+```bash
+# pip install -r req.txt 
+```
 
 # Table of Contents
 
